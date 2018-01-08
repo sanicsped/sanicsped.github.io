@@ -1,0 +1,29 @@
+/*
+Title: Trap House
+-----------------------
+You are stuck within a large building with many rooms, some having deadly traps and some having keys to enter other rooms.
+
+----------
+----------
+GAME WORLD
+----------
+----------
+Characters
+You, mysterious man I, mysterious man II
+----------
+
+----------
+- Ethan (hero)
+- Must escape, is very physically weak
+
+- Mysterious Man I
+- Says random things to you, locks rooms.
+
+- Mysterious Man II
+- Gives you hints about the current room, while sometimes misleading you into traps.
+
+Wins and Losses
+----------------
+- Win: Escape the building
+- Lose: Death by a trap, stuck in room.
+*/
