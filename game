@@ -1,7 +1,7 @@
 /*
 Title: Trap House
 -----------------------
-You are stuck within a large building with many rooms, some having deadly traps and some having keys to enter other rooms.
+You play as Ethan. Ethan is stuck within a large building with many rooms, some having deadly traps and some having keys to enter other rooms.
 
 ----------
 ----------
@@ -14,7 +14,7 @@ You, mysterious man I, mysterious man II
 
 ----------
 - Ethan (hero)
-- Must escape, is very physically weak
+- Must escape, the player does not know anything else about Ethan other than his name.
 
 - Mysterious Man I
 - Says random things to you, locks rooms.
