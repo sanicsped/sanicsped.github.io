@@ -1,5 +1,5 @@
 <!Doctype html>
-<style
+<style>
 
 alert("Hello");
 
