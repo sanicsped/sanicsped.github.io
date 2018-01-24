@@ -1,6 +1,12 @@
 <!Doctype html>
-<style>
+<html>
+  <head>
+    <script>
 
 alert("Hello");
 
-</style>
+</script>
+</head>
+<body>
+  </body
+</html>
