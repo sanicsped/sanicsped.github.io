@@ -1,4 +1,6 @@
-<script>
-alert("Hello");
-</script>
+<!Doctype html>
+<style
 
+alert("Hello");
+
+</style>
