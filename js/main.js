@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <script>
+<script>
 
 alert("Hello");
 
 </script>
-</head>
-<body>
-  </body>
-</html>
+
+
