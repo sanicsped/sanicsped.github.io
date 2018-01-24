@@ -8,5 +8,5 @@ alert("Hello");
 </script>
 </head>
 <body>
-  </body
+  </body>
 </html>
